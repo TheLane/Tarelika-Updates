@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "packageName": "com.lanesoftware.tarelika",
+  "versionCode": 14,
+  "versionName": "0.5.5",
+  "changes": [
+    "На экране обновлений показывается установленная версия Тарелики.",
+    "Обновления доступны через отдельный публичный репозиторий GitHub."
+  ],
+  "apkUrl": "tarelika-0.5.5-debug-test.apk"
+}
